@@ -1,0 +1,18 @@
+body{
+  font-size: 16px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: rgba(0, 0, 0);
+  color: white;
+  text-align: center;
+}
+.content{
+  padding-left: 18rem;
+  z-index: 1;
+
+}
