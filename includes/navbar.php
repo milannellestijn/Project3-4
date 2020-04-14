@@ -17,6 +17,9 @@
                   <li>
                       <a href="index.php?content=pages/loginform">login</a>
                   </li>
+                  <li>
+                      <a href="index.php?content=pages/register">Registreren</a>
+                  </li>
               </ul>
           </li>
           <li>

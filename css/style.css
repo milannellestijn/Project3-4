@@ -1,5 +1,9 @@
 body{
   font-size: 16px;
+  background-image: url("index.jpg");
+  background-color: #cccccc;
+  background-repeat: no-repeat;
+   background-size: cover;
 }
 
 .footer {
@@ -15,4 +19,10 @@ body{
   padding-left: 18rem;
   z-index: 1;
 
+}
+.form-group{
+  color: white;
+}
+h1{
+  color: white;
 }
